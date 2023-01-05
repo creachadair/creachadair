@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Michael
 
-<!--
-**creachadair/creachadair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lover of language,
+ a writer of words,
+  a spinner of yarns.
 
-Here are some ideas to get you started:
+A page, torn from a book.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Observations
+
+- There are only three optimizations: Do less. Do it less often. Do it faster.
+
+  The largest gains come from 1, but we spend all our time on 3.
