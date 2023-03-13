@@ -6,6 +6,14 @@ A lover of language,
 
 A page, torn from a book.
 
+---
+
+I shut my eyes and all the world drops dead; \
+I lift my lids and all is born again. \
+(I think I made you up inside my head.)
+
+ —Sylvia Plath
+
 ## Observations
 
 - There are only three optimizations: Do less. Do it less often. Do it faster.
