@@ -10,7 +10,7 @@ A page, torn from a book.
 
 I am thinking it's a sign \
 that the freckles in our eyes \
-are mirror images, that when we kiss
+are mirror images, that when we kiss \
 are perfectly aligned
 
  —The Postal Service
