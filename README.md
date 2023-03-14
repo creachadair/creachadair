@@ -8,11 +8,12 @@ A page, torn from a book.
 
 ---
 
-I shut my eyes and all the world drops dead; \
-I lift my lids and all is born again. \
-(I think I made you up inside my head.)
+I am thinking it's a sign \
+that the freckles in our eyes \
+are mirror images, that when we kiss \
+are perfectly aligned
 
- —Sylvia Plath
+ —The Postal Service
 
 ## Observations
 
