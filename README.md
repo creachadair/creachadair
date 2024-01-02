@@ -4,9 +4,9 @@ A lover of language,
 a writer of words,
 a spinner of yarns,
 and a mangler of bits.
-
-
 A page, torn from a book.
+
+My heart is a fish / hiding in tbe water-grass.
 
 ---
 
