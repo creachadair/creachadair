@@ -1,5 +1,7 @@
 # About Michael
 
+Member since 2008-08-01.
+
 A lover of language,
 a writer of words,
 a spinner of yarns,
@@ -22,5 +24,3 @@ are mirror images, that when we kiss \
 are perfectly aligned
 
  —The Postal Service
-
-
