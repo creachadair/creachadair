@@ -1,5 +1,7 @@
 # About Michael
 
+<a rel="me" href="https://phire.place/@creachadair">Mastodon</a>
+
 Member since 2008-08-01.
 
 A lover of language,
