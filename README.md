@@ -1,6 +1,7 @@
 # About Michael
 
-<link rel="me" href="https://phire.place/@creachadair" />
+<!-- Mastodon verification link -->
+<a rel="me" href="https://phire.place/@creachadair"></a>
 
 Member since 2008-08-01.
 
