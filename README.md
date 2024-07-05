@@ -1,6 +1,6 @@
 # About Michael
 
-<a rel="me" href="https://phire.place/@creachadair"></a>
+<link rel="me" href="https://phire.place/@creachadair" />
 
 Member since 2008-08-01.
 
